@@ -1,0 +1,15 @@
+{
+  "name": "saiful/php-db-toolkit",
+  "description": "Lightweight PDO toolkit for MySQL: prepared queries, CRUD helpers, transactions, and pagination.",
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "DBToolkit\\": "src/"
+    }
+  },
+  "minimum-stability": "stable"
+}
