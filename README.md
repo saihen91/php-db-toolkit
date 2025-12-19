@@ -1,3 +1,5 @@
+![PHP CI](https://github.com/saihen91/php-db-toolkit/actions/workflows/ci.yml/badge.svg)
+
 # PHP DB Toolkit
 
 Lightweight PDO toolkit for MySQL: prepared statements, CRUD helpers, transactions, and pagination.
